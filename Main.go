@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"log"
 	"strconv"
-
 	"github.com/PuerkitoBio/goquery"
 )
 
